@@ -1,0 +1,18 @@
+Why Test 3?
+
+Basically as Test 2 is HUMangous Success(Comedy..Ha ha ha), we are moving on to Test 3.
+
+It includes testing with same color(as it is important to test the accuracy of the model with large samples and next stage we move on to different colors) and large samples and more epochs and no of images per batch. These details are below.
+
+Color 				= 	Same
+No.ofSamplesgen			=	1500
+No.of Training Samples		=	1230
+No.of Testing Samples		= 	1500-1230 = 270
+No.of Epochs 			= 	100
+No.of Batch we're going tosplit =	3
+No.of images in a Batch/Epcoh	=	420 (since 1230/3=420)
+
+Defentily Going to use Google Colab's GPU (Since I don't have any)
+
+
+ALSO WE ARE NOT GOING TO HAVE ANY SEPERATE TRAINING AND TESTING FOLDER AND WE ARE GOING TO GENERATE IMAGES AND COVERT TO .NPZ FILE AND UPLOAD IT TO DRIVE. SO NO TESTING AND TRAINING IMAGES SEPARATELY, ALL TOGETHER ONLY(WE KNOW THE COUNT OF IMAGES SO WE CAN SEPARATE WHEN WE WANT. WHY USE TWO SPACE FOR SAME DOCUMENTS)
