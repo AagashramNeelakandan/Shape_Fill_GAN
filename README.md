@@ -1,2 +1,2 @@
-# Akram-Works
-I am Mechanical Engineering trying to be in Places which I am not meant to be. I want to fill this repository with works that prove them wrong.
+# SHAPE_FILL_GAN
+This a Generative Adversarial Network based model, which when given a shape will fill color to that shape, based on the boundary. As it is Image to Image Translation it will produce the image as output. Also it is trained using Google Colab and I didn't go up-to prescribed training level and I stopped at Middle of Training, so the model here is of 9020 Iterations. Future Plan to run whole data to get fully trained Network.
